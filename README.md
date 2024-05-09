@@ -3,7 +3,7 @@ To run FreeRTOS on Ubuntu, you can use a simulator or set up a development envir
 Steps to create and execute a FreeRTOS project on Ubuntu
 _______________________________________________________________
 
-1. git clone https://github.com/JEENAFST/FreeRTOS-Simulation
+1. git clone https://github.com/JEENAFST/RTOS
 2.Install Dependency For Ubuntu
 sudo apt-get install libc6-dev-i386
 3.ls
